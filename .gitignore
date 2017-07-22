@@ -1,0 +1,9 @@
+.vscode/
+downloaded_images/
+downloaded_pdfs/
+Include/
+Lib/
+scrapy_project/
+Scripts/
+selenium/
+tcl/
