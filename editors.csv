@@ -1,0 +1,186 @@
+Name
+Name,Creator
+Name,Creator,First public release
+Name,Creator,First public release,Latest stable version
+Name,Creator,First public release,Latest stable version,Latest Release Date
+Name,Creator,First public release,Latest stable version,Latest Release Date,Programming language
+Name,Creator,First public release,Latest stable version,Latest Release Date,Programming language,Cost (US$)
+Name,Creator,First public release,Latest stable version,Latest Release Date,Programming language,Cost (US$),Software license
+Name,Creator,First public release,Latest stable version,Latest Release Date,Programming language,Cost (US$),Software license,Open source
+Name,Creator,First public release,Latest stable version,Latest Release Date,Programming language,Cost (US$),Software license,Open source,Cli available
+Name,Creator,First public release,Latest stable version,Latest Release Date,Programming language,Cost (US$),Software license,Open source,Cli available,Installed size
+Acme
+Acme,Rob Pike
+Acme,Rob Pike,1993
+Acme,Rob Pike,1993,Plan 9 and Inferno
+Acme,Rob Pike,1993,Plan 9 and Inferno,
+Acme,Rob Pike,1993,Plan 9 and Inferno,,C
+Acme,Rob Pike,1993,Plan 9 and Inferno,,C,Free
+Acme,Rob Pike,1993,Plan 9 and Inferno,,C,Free,LPL (OSI approved)
+Acme,Rob Pike,1993,Plan 9 and Inferno,,C,Free,LPL (OSI approved),Yes
+AkelPad
+AkelPad,"Alexey Kuznetsov, Alexander Shengalts"
+AkelPad,"Alexey Kuznetsov, Alexander Shengalts",2003
+AkelPad,"Alexey Kuznetsov, Alexander Shengalts",2003,4.9.8
+AkelPad,"Alexey Kuznetsov, Alexander Shengalts",2003,4.9.8,2016-07-18
+AkelPad,"Alexey Kuznetsov, Alexander Shengalts",2003,4.9.8,2016-07-18,C
+AkelPad,"Alexey Kuznetsov, Alexander Shengalts",2003,4.9.8,2016-07-18,C,Free
+AkelPad,"Alexey Kuznetsov, Alexander Shengalts",2003,4.9.8,2016-07-18,C,Free,BSD
+AkelPad,"Alexey Kuznetsov, Alexander Shengalts",2003,4.9.8,2016-07-18,C,Free,BSD,Yes
+Alphatk
+Alphatk,Vince Darley
+Alphatk,Vince Darley,1999
+Alphatk,Vince Darley,1999,8.3.3
+Alphatk,Vince Darley,1999,8.3.3,2004-12-10
+Alphatk,Vince Darley,1999,8.3.3,2004-12-10,
+Alphatk,Vince Darley,1999,8.3.3,2004-12-10,,$40
+Alphatk,Vince Darley,1999,8.3.3,2004-12-10,,$40,"Proprietary, with BSD components"
+Alphatk,Vince Darley,1999,8.3.3,2004-12-10,,$40,"Proprietary, with BSD components",No
+Aquamacs
+Aquamacs,David Reitter
+Aquamacs,David Reitter,2005
+Aquamacs,David Reitter,2005,3.3
+Aquamacs,David Reitter,2005,3.3,2016-09-20
+Aquamacs,David Reitter,2005,3.3,2016-09-20,"C, Emacs Lisp"
+Aquamacs,David Reitter,2005,3.3,2016-09-20,"C, Emacs Lisp",Free
+Aquamacs,David Reitter,2005,3.3,2016-09-20,"C, Emacs Lisp",Free,GPL
+Aquamacs,David Reitter,2005,3.3,2016-09-20,"C, Emacs Lisp",Free,GPL,Yes
+Atom
+Atom,GitHub
+Atom,GitHub,2014
+Atom,GitHub,2014,1.17.2
+Atom,GitHub,2014,1.17.2,2017-04-12
+Atom,GitHub,2014,1.17.2,2017-04-12,"HTML, CSS, JavaScript, C++"
+Atom,GitHub,2014,1.17.2,2017-04-12,"HTML, CSS, JavaScript, C++",Free
+Atom,GitHub,2014,1.17.2,2017-04-12,"HTML, CSS, JavaScript, C++",Free,MIT
+Atom,GitHub,2014,1.17.2,2017-04-12,"HTML, CSS, JavaScript, C++",Free,MIT,Yes
+Atom,GitHub,2014,1.17.2,2017-04-12,"HTML, CSS, JavaScript, C++",Free,MIT,Yes,No
+BBEdit
+BBEdit,Rich Siegel
+BBEdit,Rich Siegel,1992
+BBEdit,Rich Siegel,1992,11.6.4
+BBEdit,Rich Siegel,1992,11.6.4,2017-02-24
+BBEdit,Rich Siegel,1992,11.6.4,2017-02-24,"Objective-C, Objective-C++"
+BBEdit,Rich Siegel,1992,11.6.4,2017-02-24,"Objective-C, Objective-C++",$49.99
+BBEdit,Rich Siegel,1992,11.6.4,2017-02-24,"Objective-C, Objective-C++",$49.99,Proprietary
+BBEdit,Rich Siegel,1992,11.6.4,2017-02-24,"Objective-C, Objective-C++",$49.99,Proprietary,No
+Bluefish
+Bluefish,Bluefish Development Team
+Bluefish,Bluefish Development Team,1999
+Bluefish,Bluefish Development Team,1999,2.2.10
+Bluefish,Bluefish Development Team,1999,2.2.10,2017-01-27
+Bluefish,Bluefish Development Team,1999,2.2.10,2017-01-27,C
+Bluefish,Bluefish Development Team,1999,2.2.10,2017-01-27,C,Free
+Bluefish,Bluefish Development Team,1999,2.2.10,2017-01-27,C,Free,GPL
+Bluefish,Bluefish Development Team,1999,2.2.10,2017-01-27,C,Free,GPL,Yes
+Brackets
+Brackets,Adobe Systems
+Brackets,Adobe Systems,2012
+Brackets,Adobe Systems,2012,1.8
+Brackets,Adobe Systems,2012,1.8,2016-11-10
+Brackets,Adobe Systems,2012,1.8,2016-11-10,"HTML, CSS, JavaScript, C++"
+Brackets,Adobe Systems,2012,1.8,2016-11-10,"HTML, CSS, JavaScript, C++",Free
+Brackets,Adobe Systems,2012,1.8,2016-11-10,"HTML, CSS, JavaScript, C++",Free,MIT
+Brackets,Adobe Systems,2012,1.8,2016-11-10,"HTML, CSS, JavaScript, C++",Free,MIT,Yes
+Coda
+Coda,Panic
+Coda,Panic,2007
+Coda,Panic,2007,2.6
+Coda,Panic,2007,2.6,2016-12-05
+Coda,Panic,2007,2.6,2016-12-05,Objective-C
+Coda,Panic,2007,2.6,2016-12-05,Objective-C,$99
+Coda,Panic,2007,2.6,2016-12-05,Objective-C,$99,Proprietary
+Coda,Panic,2007,2.6,2016-12-05,Objective-C,$99,Proprietary,No
+ConTEXT
+ConTEXT,ConTEXT Project Ltd
+ConTEXT,ConTEXT Project Ltd,1999
+ConTEXT,ConTEXT Project Ltd,1999,0.98.6
+ConTEXT,ConTEXT Project Ltd,1999,0.98.6,2009-08-14
+ConTEXT,ConTEXT Project Ltd,1999,0.98.6,2009-08-14,Object Pascal (Delphi)
+ConTEXT,ConTEXT Project Ltd,1999,0.98.6,2009-08-14,Object Pascal (Delphi),Free
+ConTEXT,ConTEXT Project Ltd,1999,0.98.6,2009-08-14,Object Pascal (Delphi),Free,BSD
+ConTEXT,ConTEXT Project Ltd,1999,0.98.6,2009-08-14,Object Pascal (Delphi),Free,BSD,Yes
+Crimson Editor
+Crimson Editor,"Ingyu Kang, Emerald Editor Team"
+Crimson Editor,"Ingyu Kang, Emerald Editor Team",1999
+Crimson Editor,"Ingyu Kang, Emerald Editor Team",1999,3.72
+Crimson Editor,"Ingyu Kang, Emerald Editor Team",1999,3.72,2008-05-14
+Crimson Editor,"Ingyu Kang, Emerald Editor Team",1999,3.72,2008-05-14,C++
+Crimson Editor,"Ingyu Kang, Emerald Editor Team",1999,3.72,2008-05-14,C++,Free
+Crimson Editor,"Ingyu Kang, Emerald Editor Team",1999,3.72,2008-05-14,C++,Free,GPL
+Crimson Editor,"Ingyu Kang, Emerald Editor Team",1999,3.72,2008-05-14,C++,Free,GPL,Yes
+Diakonos
+Diakonos,Pistos
+Diakonos,Pistos,2004
+Diakonos,Pistos,2004,0.9.4
+Diakonos,Pistos,2004,0.9.4,2015-01-08
+Diakonos,Pistos,2004,0.9.4,2015-01-08,Ruby
+Diakonos,Pistos,2004,0.9.4,2015-01-08,Ruby,Free
+Diakonos,Pistos,2004,0.9.4,2015-01-08,Ruby,Free,MIT
+Diakonos,Pistos,2004,0.9.4,2015-01-08,Ruby,Free,MIT,Yes
+E Text Editor
+E Text Editor,Alexander Stigsen
+E Text Editor,Alexander Stigsen,2005
+E Text Editor,Alexander Stigsen,2005,2.0.2
+E Text Editor,Alexander Stigsen,2005,2.0.2,2010-11-30
+E Text Editor,Alexander Stigsen,2005,2.0.2,2010-11-30,
+E Text Editor,Alexander Stigsen,2005,2.0.2,2010-11-30,,$46.95
+E Text Editor,Alexander Stigsen,2005,2.0.2,2010-11-30,,$46.95,"Proprietary, with BSD components"
+E Text Editor,Alexander Stigsen,2005,2.0.2,2010-11-30,,$46.95,"Proprietary, with BSD components",No
+ed
+ed,Ken Thompson
+ed,Ken Thompson,1970
+ed,Ken Thompson,1970,unchanged from original
+ed,Ken Thompson,1970,unchanged from original,
+ed,Ken Thompson,1970,unchanged from original,,C
+ed,Ken Thompson,1970,unchanged from original,,C,Free
+ed,Ken Thompson,1970,unchanged from original,,C,Free,?
+ed,Ken Thompson,1970,unchanged from original,,C,Free,?,Yes
+ed,Ken Thompson,1970,unchanged from original,,C,Free,?,Yes,Yes
+ed,Ken Thompson,1970,unchanged from original,,C,Free,?,Yes,Yes,"0,04 MB"
+EditPlus
+EditPlus,Sangil Kim
+EditPlus,Sangil Kim,1998
+EditPlus,Sangil Kim,1998,4.2
+EditPlus,Sangil Kim,1998,4.2,2017-01-05
+EditPlus,Sangil Kim,1998,4.2,2017-01-05,C++
+EditPlus,Sangil Kim,1998,4.2,2017-01-05,C++,$35
+EditPlus,Sangil Kim,1998,4.2,2017-01-05,C++,$35,Shareware
+EditPlus,Sangil Kim,1998,4.2,2017-01-05,C++,$35,Shareware,No
+Editra
+Editra,Cody Precord
+Editra,Cody Precord,2007
+Editra,Cody Precord,2007,0.7.20
+Editra,Cody Precord,2007,0.7.20,2013-01-05
+Editra,Cody Precord,2007,0.7.20,2013-01-05,Python
+Editra,Cody Precord,2007,0.7.20,2013-01-05,Python,Free
+Editra,Cody Precord,2007,0.7.20,2013-01-05,Python,Free,wxWindows license
+Editra,Cody Precord,2007,0.7.20,2013-01-05,Python,Free,wxWindows license,Yes
+EmEditor
+EmEditor,"Emurasoft, Inc."
+EmEditor,"Emurasoft, Inc.",1997
+EmEditor,"Emurasoft, Inc.",1997,16.5.0
+EmEditor,"Emurasoft, Inc.",1997,16.5.0,2017-03-02
+EmEditor,"Emurasoft, Inc.",1997,16.5.0,2017-03-02,
+EmEditor,"Emurasoft, Inc.",1997,16.5.0,2017-03-02,,$39.99 1-user
+EmEditor,"Emurasoft, Inc.",1997,16.5.0,2017-03-02,,$39.99 1-user,Shareware
+EmEditor,"Emurasoft, Inc.",1997,16.5.0,2017-03-02,,$39.99 1-user,Shareware,No
+epsilon
+epsilon,Lugaru Software
+epsilon,Lugaru Software,1984
+epsilon,Lugaru Software,1984,13.06
+epsilon,Lugaru Software,1984,13.06,2016-12-06
+epsilon,Lugaru Software,1984,13.06,2016-12-06,C
+epsilon,Lugaru Software,1984,13.06,2016-12-06,C,$250
+epsilon,Lugaru Software,1984,13.06,2016-12-06,C,$250,Proprietary
+epsilon,Lugaru Software,1984,13.06,2016-12-06,C,$250,Proprietary,No
+gedit
+gedit,GNU Project
+gedit,GNU Project,2000
+gedit,GNU Project,2000,3.22.0
+gedit,GNU Project,2000,3.22.0,2016-11-23
+gedit,GNU Project,2000,3.22.0,2016-11-23,C
+gedit,GNU Project,2000,3.22.0,2016-11-23,C,Free
+gedit,GNU Project,2000,3.22.0,2016-11-23,C,Free,GPL
+gedit,GNU Project,2000,3.22.0,2016-11-23,C,Free,GPL,Yes
+Geany
